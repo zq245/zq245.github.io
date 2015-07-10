@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = CingoPrefs;
+		cell = PSLinkCell;
+		detail = "CingoPrefsListController";
+		icon = "CingoPrefs.png";
+		isController = 1;
+		label = Cingo;
+	};
+}

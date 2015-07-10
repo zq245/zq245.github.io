@@ -1,2 +1,2 @@
 #!/bin/bash
-#dpkg-deb -bZgzip /projects/folder debs
+dpkg-deb -bZgzip /projects/Cingo debs
